@@ -3,4 +3,10 @@
         height: auto;
         padding-bottom: 10px;
     }
+    .h_1h_2 {
+        font-size: larger;
+    }
+    p {
+        font-size: medium;
+    }
 }
