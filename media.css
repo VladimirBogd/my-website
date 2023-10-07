@@ -1,7 +1,4 @@
 @media screen and (max-width: 450px) {
-    .photo_card {
-        border-radius: 0%;
-    }
     .card {
         height: auto;
         padding-bottom: 10px;
