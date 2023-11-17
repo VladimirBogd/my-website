@@ -2,7 +2,7 @@
     border: solid;
     border-color: rgb(173, 75, 75);
     box-shadow: 0 0 15px rgb(211, 38, 38);
-    background-color: rgb(99, 9, 9);
+    background-color: rgb(128 8 8);
     border-radius: 15px;
     margin: 0 20px 10px 20px;
     min-width: 300px;
@@ -82,7 +82,7 @@
 
 body {
     margin: 40pt 0 0 0;
-    background-color: rgb(66, 6, 6);
+    background-color: rgb(119 9 9);
 }
 
 main {
